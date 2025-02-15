@@ -1054,7 +1054,7 @@ const aiCapabilities = [
 const roadmap = [
   {
     phase: "第一阶段",
-    timeline: "2024 Q2",
+    timeline: "2025 Q1",
     title: "基础能力构建",
     goals: [
       "构建核心AI决策系统",
@@ -1065,7 +1065,7 @@ const roadmap = [
   },
   {
     phase: "第二阶段",
-    timeline: "2024 Q3",
+    timeline: "2025 Q2",
     title: "能力深化与扩展",
     goals: [
       "整合多个大语言模型增强认知能力",
@@ -1076,7 +1076,7 @@ const roadmap = [
   },
   {
     phase: "第三阶段",
-    timeline: "2024 Q4",
+    timeline: "2025 Q3",
     title: "生态系统构建",
     goals: [
       "推出API接口支持第三方集成",
@@ -1087,7 +1087,7 @@ const roadmap = [
   },
   {
     phase: "第四阶段",
-    timeline: "2025 Q1",
+    timeline: "2025 Q4",
     title: "全面进化",
     goals: [
       "实现完全自主的决策能力",
