@@ -136,19 +136,19 @@ graph LR
 
 ## 产品规划
 
-### 2024发展路线
+### 2025发展路线
 ```mermaid
 gantt
     title 产品迭代计划
     dateFormat  YYYY-MM
-    section 2024 Q1
-    核心引擎开发    :2024-03, 2m
-    section 2024 Q2
-    基础功能测试    :2024-05, 2m
-    section 2024 Q3
-    功能完善优化    :2024-07, 3m
-    section 2024 Q4
-    规模化部署     :2024-10, 3m
+    section 2025 Q1
+    核心引擎开发    :2025-01, 2m
+    section 2025 Q2
+    基础功能测试    :2025-04, 2m
+    section 2025 Q3
+    功能完善优化    :2025-07, 3m
+    section 2025 Q4
+    规模化部署     :2025-10, 3m
 ```
 
 ### 功能迭代计划
