@@ -905,22 +905,22 @@ export default function Home() {
               whileInView={{ opacity: 1, y: 0 }}
               className="max-w-3xl mx-auto text-center bg-primary/10 p-6 rounded-lg border border-primary/20"
             >
-              <h4 className="text-xl font-bold text-primary mb-4">💡 核心防女巫要素</h4>
+              <h4 className="text-xl font-bold text-primary mb-4">💡 AI驱动的防女巫系统</h4>
               <p className="text-gray-300 mb-4">
-                合理规划每个账号的操作时间和行为模式，建立独特的账号特征
+                全自动化的账户特征构建，智能化的行为调度系统
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
                 <div className="text-primary">
-                  <div className="font-bold mb-1">分散</div>
-                  <div>合理分配操作时间</div>
+                  <div className="font-bold mb-1">智能分散</div>
+                  <div>自动调度操作时间</div>
                 </div>
                 <div className="text-primary">
-                  <div className="font-bold mb-1">独特</div>
-                  <div>建立个性化特征</div>
+                  <div className="font-bold mb-1">特征构建</div>
+                  <div>AI生成个性化特征</div>
                 </div>
                 <div className="text-primary">
-                  <div className="font-bold mb-1">稳定</div>
-                  <div>保持正常使用频率</div>
+                  <div className="font-bold mb-1">行为优化</div>
+                  <div>自动维护使用频率</div>
                 </div>
               </div>
             </motion.div>
@@ -1229,41 +1229,41 @@ const reminderFeatures = [
 
 const accountGrowthTips = [
   {
-    title: "链上数据养成",
-    description: "建立合理的交易记录和持币记录，形成真实用户的资产特征"
+    title: "智能特征构建",
+    description: "AI自动分析链上数据，智能构建独特的账户行为特征，无需人工干预"
   },
   {
-    title: "社交账号运营",
-    description: "保持社交账号的日常活跃度，建立真实的社交互动"
+    title: "自动化社交运营",
+    description: "智能调度社交互动时间，自动生成个性化内容，打造真实社交形象"
   },
   {
-    title: "操作习惯培养",
-    description: "形成独特的操作时间和行为模式，避免批量特征"
+    title: "动态操作规划",
+    description: "基于大数据分析，自动规划最优操作时间和行为模式，避免机器人特征"
   },
   {
-    title: "资产流向规划",
-    description: "合理规划资金流向，建立正常的资产往来记录"
+    title: "智能资产调度",
+    description: "自动化资金流向规划，智能分配交易规模和频率，构建真实持币画像"
   }
 ]
 
 const operationTips = [
   {
-    title: "操作时间间隔",
+    title: "智能时间调度",
     importance: "极其重要",
     importanceLevel: "100%",
-    description: "保持合理的操作时间间隔，避免密集操作"
+    description: "AI自动分配最优操作时间，动态调整间隔，完美模拟真实用户"
   },
   {
-    title: "IP地址管理",
+    title: "自动化网络管理",
     importance: "非常重要",
     importanceLevel: "90%",
-    description: "合理使用网络环境，避免批量操作特征"
+    description: "智能IP切换系统，自动调整网络环境，有效规避批量特征"
   },
   {
-    title: "互动数据构建",
+    title: "互动数据自动化",
     importance: "重要",
     importanceLevel: "80%",
-    description: "建立真实的社交互动和链上活动数据"
+    description: "智能构建社交和链上活动数据，自动生成个性化互动记录"
   }
 ]
 
