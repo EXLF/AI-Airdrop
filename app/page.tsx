@@ -80,6 +80,23 @@ export default function Home() {
 
       {/* 主要内容 */}
       <div className="relative z-10">
+        {/* Telegram入口 */}
+        <div className="fixed top-4 right-4 z-50">
+          <motion.a
+            href="https://t.me/+U3H-jVnMCwMxZGU1"
+            target="_blank"
+            rel="noopener noreferrer"
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            className="flex items-center gap-2 bg-gradient-to-r from-primary to-secondary text-dark font-bold py-2 px-4 rounded-full text-sm"
+          >
+            <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.446 1.394c-.14.18-.357.223-.548.223l.188-2.623 4.823-4.35c.21-.186-.046-.29-.322-.104l-5.96 3.75-2.57-.802c-.557-.176-.566-.557.12-.824l10.033-3.87c.462-.173.868.107.736.828z"/>
+            </svg>
+            加入社区
+          </motion.a>
+        </div>
+
         {/* Hero部分 */}
         <section className="h-screen flex items-center justify-center text-center px-4">
           <motion.div
